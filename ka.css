@@ -1,0 +1,144 @@
+body{
+    color: white;
+    background-color: #020710;
+    overflow-x: hidden;
+}
+nav{
+    background-color: #081228;
+    color: white;
+}
+.heropage{
+    /* background-color: #020710; */
+    background-image: url(/bgf-224.png);
+    padding: 3rem 4rem;
+}
+.heropage a{
+    background-color: #157347;
+    color: white;
+    width: 15rem ;
+    height: 3rem;
+    font-size: x-large;
+}
+.card-24{
+
+}
+.hero1{
+    font-size: 5rem;
+    padding-bottom: 1.5rem;
+}
+.hero2 img{
+    margin-bottom: 5rem;
+    margin-left: 20rem;
+}
+#cards-24{
+    padding: 10px;
+    animation: floatimage 1.5s infinite;
+}
+@keyframes floatimage{
+    0%{
+        transform: translateY(0px);
+    }
+    50%{
+        transform: translateY(30px);
+    }
+    
+    100%{
+        transform: translateY(30px);
+    }
+}
+.aaa p{
+    font-size: x-large;
+    font-weight: 600;
+    color: #2CBCA5;
+}
+.aaa h2{
+    font-size: 45px;
+}
+.aaa h6{
+    font-size: larger;
+    line-height: 3rem;
+    color: #B3B4B7;
+}
+.aab{
+    padding: 5rem 5rem;
+    justify-content: space-between;
+    gap: 0rem;
+}
+.aab h6{
+    color: #2CBCA5;
+    font-size: 20px;
+}
+.aab h2{
+    font-size: 3rem;
+} 
+.aab p{
+    color: #B3B4B7;
+    font-size: x-large;
+    font-weight: 500;
+}
+.aab1{
+    display: flex;
+    gap: 8rem;
+}
+.aab1 h1{
+    font-size: 4rem;
+    color: #2CBCA5;
+}
+.aac{
+    padding: 5rem 3rem;
+}
+.aac1:hover{
+    box-shadow: 0 1rem 4rem #292A30;
+    /* background-color: red; */
+    border-radius: 10px;
+}
+.aac1 p{
+    line-height: 2rem;
+    
+}
+.aae{
+    padding: 5rem 4rem;
+    background-image: url(/bottom-bg-crypto-card.png);
+    
+}
+.aae1{
+    padding: 5rem 3rem;
+    border: 0.8px solid;
+    border-radius: 5px;
+}
+.aae1 h2{
+    font-size: 3rem;
+}
+.aae1 p{
+    font-size: larger;
+    font-weight: 600;
+}
+.aae2{
+    color: #2CBCA5;
+    padding: rem;
+    margin-right: 8rem;
+    margin-top: 3rem;
+    height: 4rem;
+}
+.aad{
+    padding: 5rem 2rem;
+}
+.aad1{
+    border-left: 2px solid;
+    border-color: #2CBCA5;
+    padding: px;
+    font-weight: 700;
+}
+.aad2{
+    border-radius: 3px;
+}
+.aaf{
+    padding: 0rem 2rem;
+}
+.aaf li{
+    list-style: none;
+}
+.aaf ul{
+    gap: 1.5rem;
+    margin-bottom: -2rem;
+}
